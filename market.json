@@ -54,7 +54,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"main.json"
+                 "value":"main.json#start_market"
                 }],
          "type":"tilelayer",
          "visible":true,
