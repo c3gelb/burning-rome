@@ -76,8 +76,8 @@
                 }, 
                 {
                  "name":"jitsiTrigger",
-                 "type":"bool",
-                 "value":true
+                 "type":"string",
+                 "value":"jitsiTrigger"
                 }],
          "type":"tilelayer",
          "visible":true,
