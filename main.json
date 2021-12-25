@@ -330,7 +330,7 @@
  "orientation":"orthogonal",
  "properties":[
         {
-         "name":"mayCopyright",
+         "name":"mapCopyright",
          "type":"string",
          "value":"CC-BY-SA\ncreated by mariechen"
         }],
