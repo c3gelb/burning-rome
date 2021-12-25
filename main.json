@@ -162,7 +162,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"world:\/\/rc3_21\/lobby.json"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
