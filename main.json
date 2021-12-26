@@ -158,6 +158,12 @@
          "id":12,
          "name":"exit_main-rc3",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"world:\/\/lobby\/floppy-landfill.json#start_neros-realm"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":41,
