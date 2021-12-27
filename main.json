@@ -214,7 +214,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"audioLoop ",
+                 "name":"audioLoop",
                  "type":"bool",
                  "value":true
                 }, 
